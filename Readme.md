@@ -28,3 +28,5 @@ A backend REST API built using Node.js, Express, and MongoDB that allows users t
 ```bash
 git clone <repo-url>
 cd news-aggregator-api
+Submitted for Airtibe evaluation
+
